@@ -61,7 +61,7 @@
 </style>
 
 <svelte:head>
-  <title>Sapper Blog Template</title>
+  <title>FLY VIEW VISA</title>
 </svelte:head>
 
 <div class="home-container">
