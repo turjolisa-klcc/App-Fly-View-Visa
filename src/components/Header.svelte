@@ -16,6 +16,6 @@
 </style>
 
 <header>
-  <Logo />
+  <h6>FVV</h6>
   <Nav {segment} />
 </header>
