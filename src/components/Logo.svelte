@@ -7,5 +7,5 @@
 </style>
 
 <a href="/">
-  <img alt="Sapper" src='logo-192.png'>
+  <h6>FVV</h6>
 </a>
